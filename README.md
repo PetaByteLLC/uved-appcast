@@ -2,6 +2,6 @@
 
 [IOS ](/appcast-ios.xml) 
 
-[WEB ](https://github.com/PutInByte/uved-appcast/blob/main/appcast-web.xml)
+[WEB ](/appcast-web.xml)
 
-[AND ](https://github.com/PutInByte/uved-appcast/blob/main/appcast-and.xml)
+[AND ](/appcast-and.xml)
