@@ -1,6 +1,6 @@
 #Here SANARIP-TAMGA Project Appcast
 
-[IOS ](https://github.com/PutInByte/uved-appcast/blob/main/appcast-ios.xml) 
+[IOS ](/appcast-ios.xml) 
 
 [WEB ](https://github.com/PutInByte/uved-appcast/blob/main/appcast-web.xml)
 
